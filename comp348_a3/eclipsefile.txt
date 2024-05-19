@@ -1,0 +1,40 @@
+Date: April 8, 2024
+Location: Canada
+Type: Total Eclipse
+Significance: idk
+
+Date: March 7, 1970
+Location: Eastern United States
+Type: Total Solar Eclipse
+Significance: First Total Solar Eclipse Visible from Continental United States Since 1925
+
+Date: July 11, 1991
+Location: Hawaii, Mexico, Central America, South America
+Type: Total Solar Eclipse
+Significance: Longest Total Solar Eclipse of the 20th Century
+
+Date: June 30, 1973
+Location: Africa, Middle East, India
+Type: Total Solar Eclipse
+Significance: First Total Solar Eclipse Visible from Africa Since 1961
+
+Date: July 1, 2019
+Location: South America
+Type: Total Solar Eclipse
+Significance: Path of Totality Crosses Chile and Argentina
+
+Date: Abc
+Location: abc
+Type: abc
+Significance: abc
+
+Date: August 21, 2017
+Location: United States
+Type: Total Solar Eclipse
+Significance: Great American Eclipse, Visible across Continental United States
+
+Date: ABC
+Location: ABC
+Type: ABC
+Significance: ABC
+
